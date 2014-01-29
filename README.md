@@ -1,0 +1,1 @@
+This is a basic script which let's you chat with the occupants of the vehicle you are in. It can be used for Roleplay servers.
